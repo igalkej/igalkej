@@ -4,7 +4,7 @@
 **igalkej/igalkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023.png)
+
 
 Here are some ideas to get you started:
 
