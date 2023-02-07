@@ -1,15 +1,52 @@
 ### Hi there 👋
 
-
-**igalkej/igalkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## About me
 
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1.png)
 
 
 
 ```python 
-your_code = do_some_stuff
+from matplotlib import pyplot as plt
+from matplotlib_venn import venn3, venn3_circles, venn3_unweighted
+import numpy as np
+
+plt.style.use('seaborn')
+params = {'figure.figsize': (20, 20),
+              'axes.labelsize': 20,
+              'axes.titlesize': 30,
+              'xtick.labelsize': 20,
+              'ytick.labelsize': 20}
+plt.rcParams.update(params)
+
+v = venn3_unweighted(subsets=(1, 1, 1, 1, 1, 1, 1),
+             set_labels=("", "", ""),
+             subset_areas=(5,3,1,1,1,1,1))
+
+v.get_label_by_id('100').set_text("Economics & \n Reaserch")
+v.get_label_by_id('010').set_text("Proyect \n Manager")
+v.get_label_by_id('001').set_text("Data \n Scientist")
+v.get_label_by_id('101').set_text("")
+v.get_label_by_id('011').set_text("")
+v.get_label_by_id('110').set_text("")
+v.get_label_by_id('111').set_text("Me")
+
+for text in v.subset_labels:
+    text.set_fontsize(14)
+
+plt.annotate('Name: igal Kejsefman\nAge: 37\nLocation: Argentina (UTC-3)\nMy passions: Knowledge and sport climbing', xy=v.get_label_by_id('111').get_position() - np.array([0, 0.0]), xytext=(-50,400),
+             ha='left', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
+             arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
+plt.annotate('PhD in Social Science', xy=v.get_label_by_id('100').get_position() - np.array([0, 0.05]), xytext=(-300,0),
+             ha='center', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
+             arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
+plt.annotate('leading teams', xy=v.get_label_by_id('010').get_position() - np.array([0, 0.05]), xytext=(300,0),
+             ha='center', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
+             arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
+plt.annotate('Machine Learning', xy=v.get_label_by_id('001').get_position() - np.array([0, 0.05]), xytext=(-70,-70),
+             ha='center', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
+             arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
+plt.show()
 ```
 Here are some ideas to get you started:
 
