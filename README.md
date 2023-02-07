@@ -6,6 +6,11 @@
 
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1.png)
 
+
+
+```python 
+your_code = do_some_stuff
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
