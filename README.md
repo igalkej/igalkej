@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
+
 **igalkej/igalkej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![](https://github.com/igalkej/)
 
 Here are some ideas to get you started:
 
