@@ -2,7 +2,8 @@
 
 ## About me
 
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1.png)
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1.png#gh-light-mode-only)
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1_dark.png#gh-dark-mode-only)
 
 
 
