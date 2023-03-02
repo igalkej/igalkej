@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### About me
+### IGAL KEJSEFMAN (He/Him)
 Economist specialized in data modeling and project management, with programming skills, experience in machine learning and
 algorithms. I apply my analytical abilities and domain knowledge to help organizations make data-driven decisions. With a curious
 personality and leadership skills, I am seeking challenging opportunities in the field of Data Science.
@@ -8,7 +8,7 @@ personality and leadership skills, I am seeking challenging opportunities in the
 
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1.png#gh-light-mode-only)
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1_dark.png#gh-dark-mode-only)
-
+sorce: check out my code 👇
 
 
 ```python 
@@ -36,10 +36,15 @@ v.get_label_by_id('011').set_text("")
 v.get_label_by_id('110').set_text("")
 v.get_label_by_id('111').set_text("Me")
 
+about =  "Buenos Aires, Argentina (UTC-3)\nigalkej@gmail.com\n(+54)911-3262-5462"
+data_sc = "Data science:\n\nProfessional experience:\nData Scientist (DIC 2020 - NOV 2022)\nCenter for Production Studies (CEPXXI)Ministry of Economy"
+
+
+
 for text in v.subset_labels:
     text.set_fontsize(14)
 
-plt.annotate('Name: igal Kejsefman\nAge: 37\nLocation: Argentina (UTC-3)\nMy passions: Knowledge and sport climbing', xy=v.get_label_by_id('111').get_position() - np.array([0, 0.0]), xytext=(-50,400),
+plt.annotate(about, xy=v.get_label_by_id('111').get_position() - np.array([0, 0.0]), xytext=(-50,400),
              ha='left', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
              arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
 plt.annotate('PhD in Social Science', xy=v.get_label_by_id('100').get_position() - np.array([0, 0.05]), xytext=(-300,0),
@@ -48,7 +53,7 @@ plt.annotate('PhD in Social Science', xy=v.get_label_by_id('100').get_position()
 plt.annotate('leading teams', xy=v.get_label_by_id('010').get_position() - np.array([0, 0.05]), xytext=(300,0),
              ha='center', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
              arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
-plt.annotate('Machine Learning', xy=v.get_label_by_id('001').get_position() - np.array([0, 0.05]), xytext=(-70,-70),
+plt.annotate(data_sc, xy=v.get_label_by_id('001').get_position() - np.array([0, 0.05]), xytext=(-70,-70),
              ha='center', textcoords='offset points', bbox=dict(boxstyle='round,pad=0.5', fc='gray', alpha=0.1),
              arrowprops=dict(arrowstyle='->', connectionstyle='arc3,rad=0.5',color='gray'))
 plt.show()
@@ -60,7 +65,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+igalkej[a]gmail.com
+https://www.linkedin.com/in/igal-kejsefman-88791a1a0/
+https://conicet-ar.academia.edu/IgalKejsefman
+
