@@ -6,7 +6,7 @@ algorithms. I apply my analytical abilities and domain knowledge to help organiz
 personality and leadership skills, I am seeking challenging opportunities in the field of Data Science.
 
 
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr3.png#gh-light-mode-only)
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr4.png#gh-light-mode-only)
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1_dark.png#gh-dark-mode-only)
 sorce: check out my code 👇
 
