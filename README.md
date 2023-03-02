@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-## About me
+### About me
+Economist specialized in data modeling and project management, with programming skills, experience in machine learning and
+algorithms. I apply my analytical abilities and domain knowledge to help organizations make data-driven decisions. With a curious
+personality and leadership skills, I am seeking challenging opportunities in the field of Data Science.
+
 
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1.png#gh-light-mode-only)
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr1_dark.png#gh-dark-mode-only)
