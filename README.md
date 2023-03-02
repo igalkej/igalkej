@@ -6,16 +6,16 @@ algorithms. I apply my analytical abilities and domain knowledge to help organiz
 personality and leadership skills, I am seeking challenging opportunities in the field of Data Science.
 
 
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr5.png#gh-light-mode-only)
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr5_dark.png#gh-dark-mode-only)
-Source: check out my code 👇
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr6.png#gh-light-mode-only)
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr6_dark.png#gh-dark-mode-only)
+Source: check out my code 👇<br>
 
-🤖 [Read my resume here:](shorturl.at/brAZ3)
+🤖 [Read my resume here:](shorturl.at/brAZ3)<br>
 
-📫 How to reach me:
-igalkej[a]gmail.com
-[Linkedin](https://www.linkedin.com/in/igal-kejsefman-88791a1a0/)
-[Academia.edu](https://conicet-ar.academia.edu/IgalKejsefman)
+📫 How to reach me:<br>
+igalkej[a]gmail.com<br>
+[Linkedin](https://www.linkedin.com/in/igal-kejsefman-88791a1a0/)<br>
+[Academia.edu](https://conicet-ar.academia.edu/IgalKejsefman)<br>
 
 ```python 
 from matplotlib import pyplot as plt
