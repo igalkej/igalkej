@@ -5,7 +5,7 @@ Economist specialized in data modeling and project management, with programming 
 algorithms. I apply my analytical abilities and domain knowledge to help organizations make data-driven decisions. With a curious
 personality and leadership skills, I am seeking challenging opportunities in the field of Data Science.
 
-_Diagram: Abaut me_
+_Diagram: About me_
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023.png#gh-light-mode-only)
 ![](https://github.com/igalkej/igalkej/blob/main/aboutme2023_dark.png#gh-dark-mode-only)
 _Source: check out my code_ 👇<br>
