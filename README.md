@@ -6,8 +6,8 @@ algorithms. I apply my analytical abilities and domain knowledge to help organiz
 personality and leadership skills, I am seeking challenging opportunities in the field of Data Science.
 
 
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr6.png#gh-light-mode-only)
-![](https://github.com/igalkej/igalkej/blob/main/aboutme2023tr6_dark.png#gh-dark-mode-only)
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023.png#gh-light-mode-only)
+![](https://github.com/igalkej/igalkej/blob/main/aboutme2023_dark.png#gh-dark-mode-only)
 Source: check out my code 👇<br>
 
 🤖 [Read my resume here:](https://drive.google.com/file/d/1opqb7EmYYC9HfrJel41Y2a9SfPq1vwUo/view?usp=sharing)<br>
